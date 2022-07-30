@@ -1,6 +1,6 @@
 # 1200_Assignment
 Project-youtube records
-The Dataset is uploaded as
+The Dataset is uploaded as youtube_dataset.
 Python code is saved as Lab2week5(1)
 Data Set: Dataset is saved as. This dataset has basically the records of various channels in youtube.
 Agenda: A function to calculate the distribution of channeltype from the top 1000 records.
